@@ -14,4 +14,4 @@ To run the program, execute this command:
 npm run wdio
 ```
 
-And watch the show!
+And watch the show! :)
