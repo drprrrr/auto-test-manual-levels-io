@@ -1,4 +1,4 @@
-## auto-test-webdriver-io
+## auto-test-manual-levels-io
 
 ### How to run this program?
 
