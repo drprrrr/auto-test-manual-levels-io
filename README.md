@@ -1,17 +1,17 @@
 ## auto-test-manual-levels-io
 
-### How to run this program?
+### In order to run this program:
 
-First of all we have to install dependencies, for this we run below command
+Install dependencies with command
 
 ```
 npm install
 ```
 
-To run the program, write down on your terminal this script:
+To run the program, execute this command:
 
 ```
 npm run wdio
 ```
 
-Witness how tests will make a show!
+And watch the show!
